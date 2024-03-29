@@ -12,7 +12,8 @@ public class Main {
 		obj.setTitle("Brick breaker");
 		obj.setResizable(false);
 		obj.setVisible(true);
-		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);;
+		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		obj.add(gamePlay);
 	}
 
 }
