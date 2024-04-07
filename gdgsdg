@@ -1,0 +1,29 @@
+[33mcommit 68178f5d831fafae97590748e17384d324ed2f1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Pablo Domingo <pablodomingo1993@gmail.com>
+Date:   Fri Mar 29 00:26:26 2024 -0300
+
+    Se ha desarrolado la interacción entre la bola y el pedal
+
+[33mcommit da569986e034622cbca8aef7a09b14e7f365be10[m
+Author: Pablo Domingo <pablodomingo1993@gmail.com>
+Date:   Thu Mar 28 17:06:48 2024 -0300
+
+    Se ha creado la pelota y el deslizador
+
+[33mcommit 23a47c90ee2e145b279264268732fc53c3f66fcb[m
+Author: Pablo Domingo <pablodomingo1993@gmail.com>
+Date:   Thu Mar 28 16:40:55 2024 -0300
+
+    Desarrollo de la clase main
+
+[33mcommit bceb9acce30da1600258cf4e36bea7c37f783e67[m
+Author: Pablo Domingo <pablodomingo1993@gmail.com>
+Date:   Tue Mar 26 23:43:57 2024 -0300
+
+    Se ha creado el proyecto y las clases principales
+
+[33mcommit 6109bad0a366bd8e1f51f9f760168f34bb394683[m
+Author: Pablo Domingo <pablodomingo1993@gmail.com>
+Date:   Tue Mar 26 23:32:55 2024 -0300
+
+    Se ha creado la carpeta Juego-java-brick-breaker
